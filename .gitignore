@@ -1,3 +1,8 @@
-# IntelliJ
+# Gradle project-specific cache directory
+.gradle
+
+# Gradle build output directory
+build
+
+# IntelliJ IDEA
 .idea/
-*.iml
